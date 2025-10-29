@@ -1,0 +1,10 @@
+Datatypes
+Decision Making statement
+Lopping statement
+method
+Object
+class
+Abstraction
+Inheritance 
+Encapsulation
+Polymorphishm
